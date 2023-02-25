@@ -7,7 +7,10 @@ const iarmolla = {
          js: ["React", "Angular"],
          css: ["Bootstrap", "Tailwind", "MUI", "Angular Material"]
       },
-      databases: ["mySQL", "SQLServer"],     
+      backend: {
+         js: ["nodejs"]
+      },
+      databases: ["mySQL", "SQLServer", "mongodb"],     
    },
    currentOccupation: ["open for job opportunities"],
 };
