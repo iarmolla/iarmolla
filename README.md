@@ -8,10 +8,9 @@ const iarmolla = {
          css: ["Bootstrap", "Tailwind", "MUI", "Angular Material"]
       },
       backend: {
-         js: ["nodejs"]
+         js: ["nodejs", "php"]
       },
       databases: ["mySQL", "SQLServer", "mongodb"],     
-   },
-   currentOccupation: ["open for job opportunities"],
+   }
 };
 ```
