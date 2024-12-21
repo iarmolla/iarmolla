@@ -5,12 +5,12 @@ const iarmolla = {
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
-         css: ["Bootstrap", "Tailwind", "MUI", "Angular Material"]
+         css: ["Bootstrap", "Tailwind"]
       },
       backend: {
-         js: ["nodejs", "php"]
+         js: ["nodejs", "php", "laravel", "nestjs"]
       },
-      databases: ["mySQL", "SQLServer", "mongodb"],     
+      databases: ["mySQL", "SQLServer", "mongodb"]
    }
 };
 ```
