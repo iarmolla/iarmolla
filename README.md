@@ -3,7 +3,7 @@
 const iarmolla = {
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
-      frontEnd: {
+      frontend: {
          js: ["React", "Angular"],
          css: ["Bootstrap", "Tailwind"]
       },
