@@ -10,7 +10,7 @@ const iarmolla = {
       backend: {
          js: ["nodejs", "php", "laravel", "nestjs"]
       },
-      databases: ["mysql", "SQLServer", "mongodb"]
+      databases: ["mysql", "sqlserver", "mongodb"]
    }
 };
 ```
