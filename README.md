@@ -1,16 +1,16 @@
 ### Hi there 🖐
 ```js
 const iarmolla = {
-   code: [Javascript, Typescript, HTML, CSS],
+   code: [javascript, typescript, html, css],
    technologies: {
       frontend: {
-         js: ["React", "Angular"],
-         css: ["Bootstrap", "Tailwind"]
+         js: ["react", "angular"],
+         css: ["bootstrap", "tailwind"]
       },
       backend: {
          js: ["nodejs", "php", "laravel", "nestjs"]
       },
-      databases: ["mySQL", "SQLServer", "mongodb"]
+      databases: ["mysql", "SQLServer", "mongodb"]
    }
 };
 ```
