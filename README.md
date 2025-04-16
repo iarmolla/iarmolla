@@ -1,7 +1,7 @@
 ### Hi there 🖐
 ```js
 const iarmolla = {
-   code: [javascript, typescript, html, css],
+   code: ['javascript', 'typescript', 'html', 'css'],
    technologies: {
       frontend: {
          js: ["react", "angular"],
